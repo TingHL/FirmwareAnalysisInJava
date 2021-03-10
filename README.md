@@ -1,4 +1,4 @@
-# crowdfunding-website-atguigu
+# crowdfunding-atguigu
 
 # 尚硅谷尚筹网Java项目实战开发教程(含SSM框架,微服务架构,封捷主讲)
 
